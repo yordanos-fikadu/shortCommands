@@ -1,0 +1,18 @@
+MultiCursors - alt + click
+Move Line - alt + arrowUp/arrowDown
+Quick Fix - Ctrl + .
+Documentation - Hover
+Format Document - Shift + alt +F
+Find - Ctrl + F
+Find/Replace - Shift + Ctrl + F
+MultiCursors - Shift + alt + drag
+Select Line - Ctrl + L
+Command Palette - F1
+Change All Occurance - Ctrl + F2
+Refactor - Shift + Ctrl + R
+Code Folding - alt + Shift + [
+Undo/Redo - Ctrl + Z
+Undo/Redo - Shift + alt + arrowUp/arrowDown
+
+  
+
